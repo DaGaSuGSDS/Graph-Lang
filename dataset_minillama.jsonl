@@ -1,0 +1,138 @@
+{"instruction": "función que suma dos números", "output": "FUNC suma(a: int, b: int) -> int:\n  RETURN a + b\nEND", "category": "math"}
+{"instruction": "crea una función para sumar dos números", "output": "FUNC suma(a: int, b: int) -> int:\n  RETURN a + b\nEND", "category": "math"}
+{"instruction": "quiero una función que sume a y b", "output": "FUNC suma(a: int, b: int) -> int:\n  RETURN a + b\nEND", "category": "math"}
+{"instruction": "función suma de dos valores", "output": "FUNC suma(a: int, b: int) -> int:\n  RETURN a + b\nEND", "category": "math"}
+{"instruction": "haz una función que reciba dos números y los sume", "output": "FUNC suma(a: int, b: int) -> int:\n  RETURN a + b\nEND", "category": "math"}
+{"instruction": "necesito sumar dos números en una función", "output": "FUNC suma(a: int, b: int) -> int:\n  RETURN a + b\nEND", "category": "math"}
+{"instruction": "función que resta dos números", "output": "FUNC resta(a: int, b: int) -> int:\n  RETURN a - b\nEND", "category": "math"}
+{"instruction": "función para restar b de a", "output": "FUNC resta(a: int, b: int) -> int:\n  RETURN a - b\nEND", "category": "math"}
+{"instruction": "quiero restar dos valores", "output": "FUNC resta(a: int, b: int) -> int:\n  RETURN a - b\nEND", "category": "math"}
+{"instruction": "crea función de resta", "output": "FUNC resta(a: int, b: int) -> int:\n  RETURN a - b\nEND", "category": "math"}
+{"instruction": "función que multiplica dos números", "output": "FUNC multiplica(a: int, b: int) -> int:\n  RETURN a * b\nEND", "category": "math"}
+{"instruction": "multiplicar a por b", "output": "FUNC multiplica(a: int, b: int) -> int:\n  RETURN a * b\nEND", "category": "math"}
+{"instruction": "función de multiplicación", "output": "FUNC multiplica(a: int, b: int) -> int:\n  RETURN a * b\nEND", "category": "math"}
+{"instruction": "producto de dos números", "output": "FUNC multiplica(a: int, b: int) -> int:\n  RETURN a * b\nEND", "category": "math"}
+{"instruction": "función que divide dos números", "output": "FUNC divide(a: int, b: int) -> int:\n  RETURN a / b\nEND", "category": "math"}
+{"instruction": "dividir a entre b", "output": "FUNC divide(a: int, b: int) -> int:\n  RETURN a / b\nEND", "category": "math"}
+{"instruction": "función de división", "output": "FUNC divide(a: int, b: int) -> int:\n  RETURN a / b\nEND", "category": "math"}
+{"instruction": "cociente de dos números", "output": "FUNC divide(a: int, b: int) -> int:\n  RETURN a / b\nEND", "category": "math"}
+{"instruction": "función que calcula el módulo", "output": "FUNC modulo(a: int, b: int) -> int:\n  RETURN a % b\nEND", "category": "math"}
+{"instruction": "resto de la división", "output": "FUNC modulo(a: int, b: int) -> int:\n  RETURN a % b\nEND", "category": "math"}
+{"instruction": "módulo de a entre b", "output": "FUNC modulo(a: int, b: int) -> int:\n  RETURN a % b\nEND", "category": "math"}
+{"instruction": "función módulo", "output": "FUNC modulo(a: int, b: int) -> int:\n  RETURN a % b\nEND", "category": "math"}
+{"instruction": "función que calcula el promedio de dos números", "output": "FUNC promedio(a: int, b: int) -> float:\n  RETURN (a + b) / 2\nEND", "category": "math"}
+{"instruction": "promedio de a y b", "output": "FUNC promedio(a: int, b: int) -> float:\n  RETURN (a + b) / 2\nEND", "category": "math"}
+{"instruction": "media de dos valores", "output": "FUNC promedio(a: int, b: int) -> float:\n  RETURN (a + b) / 2\nEND", "category": "math"}
+{"instruction": "calcular promedio", "output": "FUNC promedio(a: int, b: int) -> float:\n  RETURN (a + b) / 2\nEND", "category": "math"}
+{"instruction": "función que calcula el cuadrado de un número", "output": "FUNC cuadrado(x: int) -> int:\n  RETURN x * x\nEND", "category": "math"}
+{"instruction": "elevar al cuadrado", "output": "FUNC cuadrado(x: int) -> int:\n  RETURN x * x\nEND", "category": "math"}
+{"instruction": "número al cuadrado", "output": "FUNC cuadrado(x: int) -> int:\n  RETURN x * x\nEND", "category": "math"}
+{"instruction": "x^2", "output": "FUNC cuadrado(x: int) -> int:\n  RETURN x * x\nEND", "category": "math"}
+{"instruction": "cuadrado de x", "output": "FUNC cuadrado(x: int) -> int:\n  RETURN x * x\nEND", "category": "math"}
+{"instruction": "función que calcula el cubo de un número", "output": "FUNC cubo(x: int) -> int:\n  RETURN x * x * x\nEND", "category": "math"}
+{"instruction": "elevar al cubo", "output": "FUNC cubo(x: int) -> int:\n  RETURN x * x * x\nEND", "category": "math"}
+{"instruction": "x^3", "output": "FUNC cubo(x: int) -> int:\n  RETURN x * x * x\nEND", "category": "math"}
+{"instruction": "cubo de x", "output": "FUNC cubo(x: int) -> int:\n  RETURN x * x * x\nEND", "category": "math"}
+{"instruction": "función que retorna el máximo de dos números", "output": "FUNC max(a: int, b: int) -> int:\n  IF a > b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "máximo entre a y b", "output": "FUNC max(a: int, b: int) -> int:\n  IF a > b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "el mayor de dos números", "output": "FUNC max(a: int, b: int) -> int:\n  IF a > b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función max", "output": "FUNC max(a: int, b: int) -> int:\n  IF a > b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "encontrar el más grande", "output": "FUNC max(a: int, b: int) -> int:\n  IF a > b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que retorna el mínimo de dos números", "output": "FUNC min(a: int, b: int) -> int:\n  IF a < b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "mínimo entre a y b", "output": "FUNC min(a: int, b: int) -> int:\n  IF a < b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "el menor de dos números", "output": "FUNC min(a: int, b: int) -> int:\n  IF a < b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función min", "output": "FUNC min(a: int, b: int) -> int:\n  IF a < b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que retorna el valor absoluto", "output": "FUNC abs(x: int) -> int:\n  IF x < 0:\n    RETURN 0 - x\n  ELSE:\n    RETURN x\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "valor absoluto de x", "output": "FUNC abs(x: int) -> int:\n  IF x < 0:\n    RETURN 0 - x\n  ELSE:\n    RETURN x\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "abs de un número", "output": "FUNC abs(x: int) -> int:\n  IF x < 0:\n    RETURN 0 - x\n  ELSE:\n    RETURN x\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "quitar signo negativo", "output": "FUNC abs(x: int) -> int:\n  IF x < 0:\n    RETURN 0 - x\n  ELSE:\n    RETURN x\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que verifica si un número es positivo", "output": "FUNC esPositivo(x: int) -> bool:\n  IF x > 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "es positivo", "output": "FUNC esPositivo(x: int) -> bool:\n  IF x > 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "comprobar si es mayor que cero", "output": "FUNC esPositivo(x: int) -> bool:\n  IF x > 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "número positivo", "output": "FUNC esPositivo(x: int) -> bool:\n  IF x > 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que verifica si un número es par", "output": "FUNC esPar(n: int) -> bool:\n  IF n % 2 == 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "es par", "output": "FUNC esPar(n: int) -> bool:\n  IF n % 2 == 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "comprobar si es divisible por 2", "output": "FUNC esPar(n: int) -> bool:\n  IF n % 2 == 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "número par", "output": "FUNC esPar(n: int) -> bool:\n  IF n % 2 == 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que verifica si un número es impar", "output": "FUNC esImpar(n: int) -> bool:\n  IF n % 2 != 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "es impar", "output": "FUNC esImpar(n: int) -> bool:\n  IF n % 2 != 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "no es par", "output": "FUNC esImpar(n: int) -> bool:\n  IF n % 2 != 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "número impar", "output": "FUNC esImpar(n: int) -> bool:\n  IF n % 2 != 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que verifica si un número está en un rango", "output": "FUNC enRango(x: int, min: int, max: int) -> bool:\n  IF x >= min AND x <= max:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "está entre min y max", "output": "FUNC enRango(x: int, min: int, max: int) -> bool:\n  IF x >= min AND x <= max:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "dentro del rango", "output": "FUNC enRango(x: int, min: int, max: int) -> bool:\n  IF x >= min AND x <= max:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "verificar rango", "output": "FUNC enRango(x: int, min: int, max: int) -> bool:\n  IF x >= min AND x <= max:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función que retorna el signo de un número", "output": "FUNC signo(x: int) -> int:\n  IF x > 0:\n    RETURN 1\n  ELSE:\n    IF x < 0:\n      RETURN 0 - 1\n    ELSE:\n      RETURN 0\n    ENDIF\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "signo de x", "output": "FUNC signo(x: int) -> int:\n  IF x > 0:\n    RETURN 1\n  ELSE:\n    IF x < 0:\n      RETURN 0 - 1\n    ELSE:\n      RETURN 0\n    ENDIF\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "-1, 0 o 1 según el signo", "output": "FUNC signo(x: int) -> int:\n  IF x > 0:\n    RETURN 1\n  ELSE:\n    IF x < 0:\n      RETURN 0 - 1\n    ELSE:\n      RETURN 0\n    ENDIF\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función signo", "output": "FUNC signo(x: int) -> int:\n  IF x > 0:\n    RETURN 1\n  ELSE:\n    IF x < 0:\n      RETURN 0 - 1\n    ELSE:\n      RETURN 0\n    ENDIF\n  ENDIF\nEND", "category": "conditional"}
+{"instruction": "función factorial recursiva", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "factorial de n", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "calcular n!", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "factorial recursivo", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "función fibonacci recursiva", "output": "FUNC fibonacci(n: int) -> int:\n  IF n <= 1:\n    RETURN n\n  ELSE:\n    RETURN fibonacci(n - 1) + fibonacci(n - 2)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "fibonacci de n", "output": "FUNC fibonacci(n: int) -> int:\n  IF n <= 1:\n    RETURN n\n  ELSE:\n    RETURN fibonacci(n - 1) + fibonacci(n - 2)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "secuencia fibonacci", "output": "FUNC fibonacci(n: int) -> int:\n  IF n <= 1:\n    RETURN n\n  ELSE:\n    RETURN fibonacci(n - 1) + fibonacci(n - 2)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "número fibonacci", "output": "FUNC fibonacci(n: int) -> int:\n  IF n <= 1:\n    RETURN n\n  ELSE:\n    RETURN fibonacci(n - 1) + fibonacci(n - 2)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "función que suma números del 1 al n recursivamente", "output": "FUNC sumaHasta(n: int) -> int:\n  IF n <= 0:\n    RETURN 0\n  ELSE:\n    RETURN n + sumaHasta(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "suma recursiva hasta n", "output": "FUNC sumaHasta(n: int) -> int:\n  IF n <= 0:\n    RETURN 0\n  ELSE:\n    RETURN n + sumaHasta(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "sumar 1 a n recursivo", "output": "FUNC sumaHasta(n: int) -> int:\n  IF n <= 0:\n    RETURN 0\n  ELSE:\n    RETURN n + sumaHasta(n - 1)\n  ENDIF\nEND", "category": "recursive"}
+{"instruction": "función que calcula potencia con bucle", "output": "FUNC potencia(base: int, exp: int) -> int:\n  VAR result = 1\n  VAR i = 0\n  WHILE i < exp:\n    SET result = result * base\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "base elevado a exponente", "output": "FUNC potencia(base: int, exp: int) -> int:\n  VAR result = 1\n  VAR i = 0\n  WHILE i < exp:\n    SET result = result * base\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "potencia iterativa", "output": "FUNC potencia(base: int, exp: int) -> int:\n  VAR result = 1\n  VAR i = 0\n  WHILE i < exp:\n    SET result = result * base\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "calcular x^n con while", "output": "FUNC potencia(base: int, exp: int) -> int:\n  VAR result = 1\n  VAR i = 0\n  WHILE i < exp:\n    SET result = result * base\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "función factorial con bucle", "output": "FUNC factorialLoop(n: int) -> int:\n  VAR result = 1\n  VAR i = 1\n  WHILE i <= n:\n    SET result = result * i\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "factorial iterativo", "output": "FUNC factorialLoop(n: int) -> int:\n  VAR result = 1\n  VAR i = 1\n  WHILE i <= n:\n    SET result = result * i\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "factorial sin recursión", "output": "FUNC factorialLoop(n: int) -> int:\n  VAR result = 1\n  VAR i = 1\n  WHILE i <= n:\n    SET result = result * i\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "calcular factorial con while", "output": "FUNC factorialLoop(n: int) -> int:\n  VAR result = 1\n  VAR i = 1\n  WHILE i <= n:\n    SET result = result * i\n    SET i = i + 1\n  ENDWHILE\n  RETURN result\nEND", "category": "loop"}
+{"instruction": "función que cuenta dígitos de un número", "output": "FUNC contarDigitos(n: int) -> int:\n  VAR count = 0\n  VAR num = n\n  WHILE num > 0:\n    SET count = count + 1\n    SET num = num / 10\n  ENDWHILE\n  RETURN count\nEND", "category": "loop"}
+{"instruction": "número de dígitos", "output": "FUNC contarDigitos(n: int) -> int:\n  VAR count = 0\n  VAR num = n\n  WHILE num > 0:\n    SET count = count + 1\n    SET num = num / 10\n  ENDWHILE\n  RETURN count\nEND", "category": "loop"}
+{"instruction": "cuántos dígitos tiene", "output": "FUNC contarDigitos(n: int) -> int:\n  VAR count = 0\n  VAR num = n\n  WHILE num > 0:\n    SET count = count + 1\n    SET num = num / 10\n  ENDWHILE\n  RETURN count\nEND", "category": "loop"}
+{"instruction": "longitud de un número", "output": "FUNC contarDigitos(n: int) -> int:\n  VAR count = 0\n  VAR num = n\n  WHILE num > 0:\n    SET count = count + 1\n    SET num = num / 10\n  ENDWHILE\n  RETURN count\nEND", "category": "loop"}
+{"instruction": "función que suma los dígitos de un número", "output": "FUNC sumaDigitos(n: int) -> int:\n  VAR suma = 0\n  VAR num = n\n  WHILE num > 0:\n    SET suma = suma + num % 10\n    SET num = num / 10\n  ENDWHILE\n  RETURN suma\nEND", "category": "loop"}
+{"instruction": "suma de dígitos", "output": "FUNC sumaDigitos(n: int) -> int:\n  VAR suma = 0\n  VAR num = n\n  WHILE num > 0:\n    SET suma = suma + num % 10\n    SET num = num / 10\n  ENDWHILE\n  RETURN suma\nEND", "category": "loop"}
+{"instruction": "sumar cada dígito", "output": "FUNC sumaDigitos(n: int) -> int:\n  VAR suma = 0\n  VAR num = n\n  WHILE num > 0:\n    SET suma = suma + num % 10\n    SET num = num / 10\n  ENDWHILE\n  RETURN suma\nEND", "category": "loop"}
+{"instruction": "imprimir números del 1 al 10", "output": "MAIN:\n  VAR i = 1\n  WHILE i <= 10:\n    PRINT i\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "mostrar números 1 a 10", "output": "MAIN:\n  VAR i = 1\n  WHILE i <= 10:\n    PRINT i\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "print 1 to 10", "output": "MAIN:\n  VAR i = 1\n  WHILE i <= 10:\n    PRINT i\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "listar del uno al diez", "output": "MAIN:\n  VAR i = 1\n  WHILE i <= 10:\n    PRINT i\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "imprimir números pares del 2 al 20", "output": "MAIN:\n  VAR i = 2\n  WHILE i <= 20:\n    PRINT i\n    SET i = i + 2\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "mostrar pares hasta 20", "output": "MAIN:\n  VAR i = 2\n  WHILE i <= 20:\n    PRINT i\n    SET i = i + 2\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "números pares", "output": "MAIN:\n  VAR i = 2\n  WHILE i <= 20:\n    PRINT i\n    SET i = i + 2\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "fizzbuzz del 1 al 15", "output": "FUNC esDivisible(n: int, d: int) -> bool:\n  RETURN n % d == 0\nEND\n\nMAIN:\n  VAR i = 1\n  WHILE i <= 15:\n    IF esDivisible(i, 15):\n      PRINT \"FizzBuzz\"\n    ELSE:\n      IF esDivisible(i, 3):\n        PRINT \"Fizz\"\n      ELSE:\n        IF esDivisible(i, 5):\n          PRINT \"Buzz\"\n        ELSE:\n          PRINT i\n        ENDIF\n      ENDIF\n    ENDIF\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "hacer fizzbuzz", "output": "FUNC esDivisible(n: int, d: int) -> bool:\n  RETURN n % d == 0\nEND\n\nMAIN:\n  VAR i = 1\n  WHILE i <= 15:\n    IF esDivisible(i, 15):\n      PRINT \"FizzBuzz\"\n    ELSE:\n      IF esDivisible(i, 3):\n        PRINT \"Fizz\"\n      ELSE:\n        IF esDivisible(i, 5):\n          PRINT \"Buzz\"\n        ELSE:\n          PRINT i\n        ENDIF\n      ENDIF\n    ENDIF\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "fizz buzz clásico", "output": "FUNC esDivisible(n: int, d: int) -> bool:\n  RETURN n % d == 0\nEND\n\nMAIN:\n  VAR i = 1\n  WHILE i <= 15:\n    IF esDivisible(i, 15):\n      PRINT \"FizzBuzz\"\n    ELSE:\n      IF esDivisible(i, 3):\n        PRINT \"Fizz\"\n      ELSE:\n        IF esDivisible(i, 5):\n          PRINT \"Buzz\"\n        ELSE:\n          PRINT i\n        ENDIF\n      ENDIF\n    ENDIF\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "juego fizzbuzz", "output": "FUNC esDivisible(n: int, d: int) -> bool:\n  RETURN n % d == 0\nEND\n\nMAIN:\n  VAR i = 1\n  WHILE i <= 15:\n    IF esDivisible(i, 15):\n      PRINT \"FizzBuzz\"\n    ELSE:\n      IF esDivisible(i, 3):\n        PRINT \"Fizz\"\n      ELSE:\n        IF esDivisible(i, 5):\n          PRINT \"Buzz\"\n        ELSE:\n          PRINT i\n        ENDIF\n      ENDIF\n    ENDIF\n    SET i = i + 1\n  ENDWHILE\nEND", "category": "program"}
+{"instruction": "calcular e imprimir factorial de 5", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND\n\nMAIN:\n  PRINT factorial(5)\nEND", "category": "program"}
+{"instruction": "factorial de 5", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND\n\nMAIN:\n  PRINT factorial(5)\nEND", "category": "program"}
+{"instruction": "5!", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND\n\nMAIN:\n  PRINT factorial(5)\nEND", "category": "program"}
+{"instruction": "imprimir 5 factorial", "output": "FUNC factorial(n: int) -> int:\n  IF n <= 1:\n    RETURN 1\n  ELSE:\n    RETURN n * factorial(n - 1)\n  ENDIF\nEND\n\nMAIN:\n  PRINT factorial(5)\nEND", "category": "program"}
+{"instruction": "función que calcula el IVA", "output": "FUNC calcularIVA(precio: float) -> float:\n  RETURN precio * 0.21\nEND", "category": "finance"}
+{"instruction": "calcular IVA de un precio", "output": "FUNC calcularIVA(precio: float) -> float:\n  RETURN precio * 0.21\nEND", "category": "finance"}
+{"instruction": "impuesto IVA", "output": "FUNC calcularIVA(precio: float) -> float:\n  RETURN precio * 0.21\nEND", "category": "finance"}
+{"instruction": "21% de IVA", "output": "FUNC calcularIVA(precio: float) -> float:\n  RETURN precio * 0.21\nEND", "category": "finance"}
+{"instruction": "función que calcula precio con IVA", "output": "FUNC precioConIVA(precio: float) -> float:\n  RETURN precio + precio * 0.21\nEND", "category": "finance"}
+{"instruction": "precio total con IVA", "output": "FUNC precioConIVA(precio: float) -> float:\n  RETURN precio + precio * 0.21\nEND", "category": "finance"}
+{"instruction": "añadir IVA al precio", "output": "FUNC precioConIVA(precio: float) -> float:\n  RETURN precio + precio * 0.21\nEND", "category": "finance"}
+{"instruction": "función que calcula porcentaje", "output": "FUNC porcentaje(cantidad: float, pct: float) -> float:\n  RETURN cantidad * pct / 100\nEND", "category": "finance"}
+{"instruction": "porcentaje de un número", "output": "FUNC porcentaje(cantidad: float, pct: float) -> float:\n  RETURN cantidad * pct / 100\nEND", "category": "finance"}
+{"instruction": "calcular tanto por ciento", "output": "FUNC porcentaje(cantidad: float, pct: float) -> float:\n  RETURN cantidad * pct / 100\nEND", "category": "finance"}
+{"instruction": "x% de cantidad", "output": "FUNC porcentaje(cantidad: float, pct: float) -> float:\n  RETURN cantidad * pct / 100\nEND", "category": "finance"}
+{"instruction": "función que calcula descuento", "output": "FUNC aplicarDescuento(precio: float, descuento: float) -> float:\n  RETURN precio - precio * descuento / 100\nEND", "category": "finance"}
+{"instruction": "aplicar descuento", "output": "FUNC aplicarDescuento(precio: float, descuento: float) -> float:\n  RETURN precio - precio * descuento / 100\nEND", "category": "finance"}
+{"instruction": "precio con descuento", "output": "FUNC aplicarDescuento(precio: float, descuento: float) -> float:\n  RETURN precio - precio * descuento / 100\nEND", "category": "finance"}
+{"instruction": "restar porcentaje", "output": "FUNC aplicarDescuento(precio: float, descuento: float) -> float:\n  RETURN precio - precio * descuento / 100\nEND", "category": "finance"}
+{"instruction": "imprime los números del 1 al 10", "output": "FUNC contar() -> void:\n  VAR i: int\n  FOR i IN 1..10:\n    PRINT i\n  ENDFOR\nEND", "category": "loops"}
+{"instruction": "haz un bucle que cuente hasta n", "output": "FUNC contarHasta(n: int) -> void:\n  VAR i: int\n  FOR i IN 1..n:\n    PRINT i\n  ENDFOR\nEND", "category": "loops"}
+{"instruction": "función que imprime n veces hola", "output": "FUNC saludar(n: int) -> void:\n  VAR i: int\n  FOR i IN 1..n:\n    PRINT \"Hola\"\n  ENDFOR\nEND", "category": "loops"}
+{"instruction": "suma los números del 1 al 100", "output": "FUNC sumarCien() -> int:\n  VAR total: int\n  VAR i: int\n  SET total = 0\n  FOR i IN 1..100:\n    SET total = total + i\n  ENDFOR\n  RETURN total\nEND", "category": "loops"}
+{"instruction": "calcula la suma de 1 hasta n", "output": "FUNC sumatorio(n: int) -> int:\n  VAR total: int\n  VAR i: int\n  SET total = 0\n  FOR i IN 1..n:\n    SET total = total + i\n  ENDFOR\n  RETURN total\nEND", "category": "loops"}
+{"instruction": "verifica si el número es positivo", "output": "FUNC esPositivo(n: int) -> bool:\n  IF n > 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "logic"}
+{"instruction": "dime si el número es par", "output": "FUNC esPar(n: int) -> bool:\n  IF (n % 2) == 0:\n    RETURN true\n  ELSE:\n    RETURN false\n  ENDIF\nEND", "category": "logic"}
+{"instruction": "comprueba si es mayor de edad", "output": "FUNC validarEdad(edad: int) -> void:\n  IF edad >= 18:\n    PRINT \"Acceso permitido\"\n  ELSE:\n    PRINT \"Acceso denegado\"\n  ENDIF\nEND", "category": "logic"}
+{"instruction": "función fizzbuzz simple", "output": "FUNC fizzbuzz(n: int) -> void:\n  VAR i: int\n  FOR i IN 1..n:\n    IF (i % 3) == 0:\n      PRINT \"Fizz\"\n    ELSE:\n      PRINT i\n    ENDIF\n  ENDFOR\nEND", "category": "mixed"}
+{"instruction": "imprime solo los números pares hasta n", "output": "FUNC pares(n: int) -> void:\n  VAR i: int\n  FOR i IN 1..n:\n    IF (i % 2) == 0:\n      PRINT i\n    ENDIF\n  ENDFOR\nEND", "category": "mixed"}
+{"instruction": "bucle while hasta que x sea 10", "output": "FUNC bucleWhile() -> void:\n  VAR x: int\n  SET x = 0\n  WHILE x < 10:\n    PRINT x\n    SET x = x + 1\n  ENDWHILE\nEND", "category": "loops"}
+{"instruction": "cuenta regresiva desde n", "output": "FUNC cuentaAtras(n: int) -> void:\n  VAR i: int\n  SET i = n\n  WHILE i > 0:\n    PRINT i\n    SET i = i - 1\n  ENDWHILE\nEND", "category": "loops"}
+{"instruction": "máximo de dos números", "output": "FUNC maximo(a: int, b: int) -> int:\n  IF a > b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "logic"}
+{"instruction": "mínimo de dos valores", "output": "FUNC minimo(a: int, b: int) -> int:\n  IF a < b:\n    RETURN a\n  ELSE:\n    RETURN b\n  ENDIF\nEND", "category": "logic"}
